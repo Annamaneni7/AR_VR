@@ -15,7 +15,7 @@ This starter-file has three bottom tabs, each tab loads a different AR component
 
 NOTE: 
 
-1.You cannot use expo to download run this app in the development phase because expo doesn't support viro react yet. 
+1.You cannot use expo to run this app in the development phase because expo doesn't support viro react yet. 
 
 2.You cannot use virtual emulators running on your pc to run this app either because they don't support VR/AR which needs camera access.
 
